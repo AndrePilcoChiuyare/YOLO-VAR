@@ -5,11 +5,11 @@
 # https://www.youtube.com/watch?v=fu2tfOV9vbY&t=529s
 # https://pytorch.org/get-started/locally/
 
-from ultralytics import YOLO as yl
+from ultralytics import YOLO
 import cv2
 
 # Load a pretrained YOLO model (recommended for training)
-model = yl('yolov8n-seg.pt')
+model = YOLO('yolov8n-seg.pt')
 
 # Perform object detection on an image using the model
 #results = model('https://www.youtube.com/shorts/kn-B13Ch9dw', stream=True)
