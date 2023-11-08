@@ -9,8 +9,8 @@
 
 - Install `pip`
     ```bash
-    python3 -m pip install --user --upgrade pip
-    python3 -m pip --version
+    python -m pip install --user --upgrade pip
+    python -m pip --version
     ```
 
 - Install [PyTorch](https://pytorch.org/get-started/locally/) by selecting your preferences
