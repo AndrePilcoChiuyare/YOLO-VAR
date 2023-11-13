@@ -1,4 +1,6 @@
-# YOLO - ImageProcessing
+# YOLO - VAR
+
+This application has been developed to be used in any sport where a ball is needed. This makes it possible to review the plays in detail and be able to rule on fouls or highlight details of the game.
 
 ## How to set up the enviroment
 
@@ -28,7 +30,16 @@
 
 - Once you have the enviroment created and the requirements installed, you can run the Python command
   ```bash
-  python yolo.py
+  python VAR.py
+  ```
+
+- Now you're able to start reviewing the most important plays of the match using the next keys
+```bash
+  Space: Zoom-in / Zoom-out
+  P: Play / Pause
+  A: Rewind
+  D: Fast-forward
+  Q: Quit
   ```
 
 > You can find more information at [Ultralytics YOLOv8 Docs](https://docs.ultralytics.com) 
