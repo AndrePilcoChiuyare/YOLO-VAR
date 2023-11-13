@@ -1,2 +1,4 @@
 .env
 *.avi
+*.mp4
+*.pt
