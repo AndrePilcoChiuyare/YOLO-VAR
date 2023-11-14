@@ -5,7 +5,7 @@ import keyboard
 import time
 
 # Create a video capture object
-cap = cv2.VideoCapture('assets/soccer.mp4')
+cap = cv2.VideoCapture('assets/prueba_resize.mp4')
 
 # Initialize the YOLO model
 model = YOLO('yolov8x.pt')
