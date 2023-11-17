@@ -3,3 +3,5 @@
 *.mp4
 *.pt
 __pycache__
+downloadYT.py
+resize.py
