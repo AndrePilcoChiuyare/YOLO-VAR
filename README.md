@@ -37,6 +37,8 @@ This application has been developed to be used in any sport where a ball is need
 ```bash
   Space: Zoom-in / Zoom-out
   P: Play / Pause
+  W: Increase zoom
+  S: Decrease zoom
   A: Rewind
   D: Fast-forward
   Q: Quit
