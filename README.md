@@ -25,6 +25,10 @@ This application has been developed to be used in any sport where a ball is need
     ```bash
     pip install ultralytics
     ```
+- Install `Keyboard` library via pip
+    ```
+    pip install keyboard
+    ```
 
 ##  How to use
 
@@ -43,5 +47,7 @@ This application has been developed to be used in any sport where a ball is need
   D: Fast-forward
   Q: Quit
   ```
+
+- If you don't have an own video, you can use [ours](https://www.youtube.com/watch?v=ot2lYbm9izg), download it using `downloadYT.py` in `assets`
 
 > You can find more information at [Ultralytics YOLOv8 Docs](https://docs.ultralytics.com) 
